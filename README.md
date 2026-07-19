@@ -202,3 +202,7 @@ python -m pytest backend/tests/ -v
 
 * **License**: MIT License
 * **Authors**: SriDesiyan (Product Architect & Lead Engineer) and the NetElixIQ AI Team.
+
+TEAM NAME: TECH AVERIX
+COLLEGE: CHENNAI INSTITUTE OF TECHNOLOGY
+TEAM MEMBERS: SRI DESIYAN V , Mohamed Ismail A

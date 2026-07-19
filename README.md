@@ -5,6 +5,11 @@
 > AI-powered Time-Series Decision Intelligence Platform for Multi-Channel E-commerce Agencies.  
 > *Developed for the AIgnition 3.0 Hackathon.*
 
+TEAM NAME: TECH AVERIX
+
+COLLEGE: CHENNAI INSTITUTE OF TECHNOLOGY
+
+TEAM MEMBERS: SRI DESIYAN V , Mohamed Ismail A
 ---
 
 ## 1. Project Overview & Business Case
@@ -203,6 +208,4 @@ python -m pytest backend/tests/ -v
 * **License**: MIT License
 * **Authors**: SriDesiyan (Product Architect & Lead Engineer) and the NetElixIQ AI Team.
 
-TEAM NAME: TECH AVERIX
-COLLEGE: CHENNAI INSTITUTE OF TECHNOLOGY
-TEAM MEMBERS: SRI DESIYAN V , Mohamed Ismail A
+
